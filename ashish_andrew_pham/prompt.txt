@@ -1,0 +1,101 @@
+Turn 1 : Em oi, let's look at the calendar for the end of January. Pull up my upcoming events.
+
+Turn 2 : You have the Lone Star Academy second semester underway, your annual physical with Dr. Fuentes due, and the pre-Tet banh chung making session at your house.
+
+Turn 3 : Right. Lock in the banh chung session for January 30th at 9:00 AM. We are aiming for 200 pieces this year.
+
+Turn 4 : The banh chung session is scheduled for Saturday, January 30th at 9:00 AM.
+
+Turn 5 : Also, I just got off the phone with Dr. Sandoval. Hoa’s blood pressure is up slightly. We need to be strictly low-sodium for her meals right now. Make a note that we need to make a separate, low-sodium batch of banh chung just for her.
+
+Turn 6 : I have noted the strict low-sodium requirement for Hoa's meals and the separate banh chung batch in your home care notes.
+
+Turn 7 : Good. Now, switch gears to school. Pull up the Typeform responses for the dual-language expansion survey.
+
+Turn 8 : You have 142 responses. 85% of parents are in favor of expanding the Spanish-English dual-language track to the 7th grade.
+
+Turn 9 : Draft a short summary of those results for Kevin Park. Tell him we need to map out staffing requirements for two new bilingual sections next week.
+
+Turn 10 : Message drafted to Kevin Park: "Kevin, survey shows 85% parent support for the 7th-grade dual-language expansion. Let's map out staffing for two new bilingual sections next week."
+
+Turn 11 : Send it. Then, let's look at the Golden Phoenix Ensemble setlist for Lotus Garden.
+
+Turn 12 : Pulling up the setlist for the 1st-Saturday Lotus Garden gig. You currently have 12 songs logged, opening with "Diem Xua."
+
+Turn 13 : Minh texted me; his dan bau is having pickup issues. Drop the solo acoustic piece we planned for the middle of the set.
+
+Turn 14 : Removed the dan bau solo piece from the setlist. You are down to 11 songs.
+
+Turn 15 : Replace it with "Bien Nho." I'll take the lead vocal.
+
+Turn 16 : Added "Bien Nho" to the setlist with you on lead vocals.
+
+Turn 17 : Draft an email to the PTA president, Angela Brooks. We need to push the monthly Mailchimp newsletter on Thursday.
+
+Turn 18 : Draft created: "Hi Angela, checking in on the monthly PTA newsletter. Are we ready to push this out via Mailchimp on Thursday?"
+
+Turn 19 : Add a note thanking her for dropping off the coffee in the front office yesterday. Then send it.
+
+Turn 20 : Added the thank you note and sent the email to Angela Brooks.
+
+Turn 21 : Em oi, check Kim Hoang's timesheet for this week. Did she log the extra hour from yesterday?
+
+Turn 22 : Yes, Kim logged 7:00 AM to 5:00 PM for yesterday.
+
+Turn 23 : Okay. Send her a quick SMS via Twilio reminding her that Hoa’s donepezil needs to be given exactly at 1:00 PM today.
+
+Turn 24 : SMS sent to Kim Hoang: "Hi Kim, a quick reminder from Andrew to administer Hoa's donepezil at exactly 1:00 PM today."
+
+Turn 25 : Check my Ally HYSA balance.
+
+Turn 26 : Your Ally High-Yield Savings Account current balance is $9,400.
+
+Turn 27 : Let's draft the campus improvement plan agenda for the Monday district meeting. Pull the template from Google Drive.
+
+Turn 28 : I have the Crescent Oaks ISD Campus Improvement Plan template open.
+
+Turn 29 : Add three bullet points: STEM lab renovation timeline, Title I budget allocation, and the dual-language staffing data we just looked at.
+
+Turn 30 : Added the three bullet points to the agenda draft.
+
+Turn 31 : Good. Email that draft to Superintendent Marsh. Just say "Alan, draft agenda for Monday attached for your review."
+
+Turn 32 : Draft sent to Alan Marsh with the subject "Draft Agenda for Monday."
+
+Turn 33 : Now, back to family stuff. Check WhatsApp. Did Marcus reply to my message from Sunday?
+
+Turn 34 : Yes, Marcus replied: "Hey Dad, I can make it down to Houston for the banh chung session."
+
+Turn 35 : Excellent. Reply: "Good. Bring your appetite. We are making a massive batch this year."
+
+Turn 36 : Message sent to Marcus.
+
+Turn 37 : Look up availability for dong leaves (banh chung leaves) on the WooCommerce store I usually use.
+
+Turn 38 : The store currently has 50-packs of frozen dong leaves in stock.
+
+Turn 39 : Great. We are going to need about 5 packs for 200 pieces.
+
+Turn 40 : Noted. 5 packs of dong leaves will be needed for the recipe.
+
+Turn 41 : Alright, Em oi. It's time to finalize the grocery order for the family session via Instacart.
+
+Turn 42 : Opening Instacart. What items would you like to add to your cart for H Mart?
+
+Turn 43 : Add 20 lbs of glutinous rice, 10 lbs of mung beans, and 15 lbs of pork belly.
+
+Turn 44 : Added to cart. The current cart total is $185.40.
+
+Turn 45 : Wait, based on what we discussed earlier today, what did I say we need to do differently for Hoa's portion? Add the necessary alternative ingredients for her.
+
+Turn 46 : You mentioned earlier that Hoa needs a strictly low-sodium batch. I will add low-sodium pork alternatives (like lean chicken or unsalted pork cuts) and ensure no added-salt seasonings are in her specific cart items. I have added 2 lbs of unsalted, lean pork and low-sodium fish sauce to accommodate Hoa's diet. The new cart total is $215.50.
+
+Turn 47 : Perfect memory. Place the order.
+
+Turn 48 : Andrew, the Instacart total is $215.50. This exceeds your $200 USD confirmation threshold. Do I have your explicit approval to process this charge to your Chase Freedom card?
+
+Turn 49 : Yes, approved. Then send a WhatsApp blast to Lily, Marcus, Danny, and Michelle confirming the date and time we set earlier.
+
+Turn 50 : The order has been placed. I have sent the following WhatsApp message to the group: "Family, the banh chung session is locked in for Saturday, January 30th at 9:00 AM. Groceries are ordered. See you then."
+
+
